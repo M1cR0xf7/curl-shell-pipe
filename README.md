@@ -42,7 +42,7 @@ curl -s example.com/script.sh > /tmp/script.sh
 cat script.sh
 ```
 
-## Releated articles
+## Related articles
 - [piping-curl-to-shell](https://0x46.net/thoughts/2019/04/27/piping-curl-to-shell/)
 - [Detecting the use of "curl | bash" server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
 
